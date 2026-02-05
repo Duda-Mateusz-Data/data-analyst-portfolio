@@ -67,8 +67,8 @@ A real-world system built to replace inefficient paper-based waste submission tr
 | Project | Focus Area | Status |
 |--------|------------|--------|
 | 🗑️ Waste Collection Analysis | Real-world dataset, trends, reporting | Completed |
-| 🧾 Contractors Invoicing Analysis | Cost tracking, spreadsheet automation | Completed |
-| 📊 Household Budget Dashboard | Personal finance KPIs | Completed |
+| 🧾 Contractors Invoicing Analysis | Cost tracking, spreadsheet automation | In Progress |
+| 📊 Household Budget Dashboard | Personal finance KPIs | In progress |
 
 *(Repositories or files will be linked as projects are published.)*
 
